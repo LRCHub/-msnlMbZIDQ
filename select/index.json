@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Sky Linker",
+  "base_artist": "米女メイ(CV.薮島朱音)",
+  "createdAt": "2026-02-06T13:19:35.479954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sky Linker",
+      "artist": "Mei Yoneme (CV: Akane Yabushima)",
+      "has_synced": false,
+      "path": "select/01_Sky_Linker_Mei_Yoneme_(CV__Akane_Yabushima).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sky Linker",
+      "artist": "米女メイ (CV.薮島朱音)",
+      "has_synced": false,
+      "path": "select/pl_01_Sky_Linker_米女メイ_(CV.薮島朱音).txt"
+    }
+  ]
+}
